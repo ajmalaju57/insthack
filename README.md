@@ -4,7 +4,7 @@ This tool is combained from
 + Crackinsta Tool
 
 # Installation steps in Termux & Kali linux
-Check Link :http://www.cyberworld.tk/
+Check Link :https://cyberworld.tk/
 
 # Requirements 
 python3
