@@ -7,8 +7,10 @@ This tool is combained from
 Check Link :https://cyberworld.tk/
 
 # Requirements 
-python3
+```bash
+apt install python3
 
-pip latest version
+apt install pip
+```
 # Disclaimer
 The above all files for informational and educational purposes only. About information security, penetration testing and security in general and increasing security awareness. This account does not promote or encourage any illegal Activities, all contents are provided by this channel is meant for Educational purpose only.
